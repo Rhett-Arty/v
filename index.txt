@@ -12,7 +12,7 @@
 "V Without Me Eminem",
 "V Ripped Pants Spongebob",
 "V Lose Yourself Eminem",
-"V Gangsters Paradis",
+"V Gangsters Paradise",
 "V Red Sun China",
 "V Whistle Hutcherson",
 "V House of Memories",
@@ -82,5 +82,9 @@
 "V Whats Up He Man",
 "V Blue Moon Frank Sinatra",
 "V Chug Jug With You Leviathan",
-"V Big Iron Marty Robbins"
+"V Big Iron Marty Robbins",
+"V Sit And Dream Pete Thomas",
+"V Fortnite Is Trash Leviathan",
+"V Jingle Jangle Jingle",
+"V I Love It Kanye"
 }
