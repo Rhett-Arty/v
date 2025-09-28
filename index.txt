@@ -86,5 +86,14 @@
 "V Sit And Dream Pete Thomas",
 "V Fortnite Is Trash Leviathan",
 "V Jingle Jangle Jingle",
-"V I Love It Kanye"
+"V I Love It Kanye",
+"V Kyles Mom A Beach South Park",
+"V Aint Got Rhythm Phineas",
+"V Cory In The House",
+"V Should I Stay Or Should I Go",
+"V Earth Lil Dicky",
+"V Back In Black ACDC",
+"V You Got A Friend In Me",
+"V Cooking By The Book Lazy Town",
+"V Paint It Black Rolling Stones"
 }
