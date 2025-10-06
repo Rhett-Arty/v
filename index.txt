@@ -100,7 +100,7 @@
 "V Goofy Goober Rock",
 "V What You Wont Do For Love",
 "V Ocean Man",
-"V Somebody That I Used To Know",
+"V Somebody I Used To Know",
 "V Jatt Dont Care",
 "V Boombastic",
 "V The 7th Element",
