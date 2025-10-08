@@ -129,5 +129,9 @@
 "V Flamingo",
 "V Globgogabgolab",
 "V Piano Man",
-"V Roundabout"
+"V Roundabout",
+"V You So Precious",
+"V Break My Stride",
+"V Tiny Little Adiantum Omae Wa",
+"V Baka Mitai Dame Dame"
 }
