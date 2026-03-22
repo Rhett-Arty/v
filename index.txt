@@ -133,5 +133,19 @@
 "V You So Precious",
 "V Break My Stride",
 "V Tiny Little Adiantum Omae Wa",
-"V Baka Mitai Dame Dame"
+"V Baka Mitai Dame Dame",
+"V This Is America",
+"V This Is America I Guess",
+"V California Gurls",
+"V Chop Suey",
+"V Toto Africa",
+"V We Are Charlie Kirk",
+"V Charlie Charlie Kirky I Just Popped a Perky",
+"V Poker Face",
+"V Wrecking Ball",
+"V Shia LaBeouf",
+"V Sticking Out Your Gyat For The Rizzler",
+"V Legends Never Die",
+"V Witch Doctor",
+"V Ragged Old Flag"
 }
